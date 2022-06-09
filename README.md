@@ -1,7 +1,7 @@
 # consoleChat
 I`m just learning C++ and create this chat for fun
 
-Ok, for first program will ask youabout your name
+Ok, for the first program will ask youabout your name
 Just write nick which you want and press enter
 
 Then it will ask in which mode you want to use this chat, server or client?
