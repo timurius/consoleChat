@@ -1,7 +1,7 @@
 # consoleChat
 I`m just learning C++ and create this chat for fun
 
-Ok, for the first program will ask youabout your name
+Ok, for the first program will ask you about your name
 Just write nick which you want and press enter
 
 Then it will ask in which mode you want to use this chat, server or client?
@@ -10,6 +10,6 @@ If you want to open your server for your frind, you must just input 's' and shar
 
 Now you connected to your friend!
 
-For type the message just push 'control' on your keyboard, write a message and push enter
+For type the message just press 'control' on your keyboard, write a message and press enter
 
 Have fun!
