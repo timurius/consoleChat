@@ -1,7 +1,7 @@
 # consoleChat
 I`m just learning C++ and create this chat for fun
 
-P.s it will work only local (with computers which connected to the same wi-fi)
+P.s it will work only local (with computers which connected to the same wi-fi as you)
 
 Ok, for the first program will ask you about your name
 Just write nick which you want and press enter
